@@ -14,3 +14,4 @@ class UserFrom(StrEnum):
 class WorkflowRunTriggeredFrom(StrEnum):
     DEBUGGING = "debugging"
     APP_RUN = "app-run"
+    SCHEDULE = "schedule"

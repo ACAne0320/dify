@@ -64,6 +64,7 @@ from .app import (
     workflow,
     workflow_app_log,
     workflow_run,
+    workflow_schedule,
     workflow_statistic,
 )
 
