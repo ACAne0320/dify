@@ -240,6 +240,7 @@ export type WorkflowRunDetail = {
   currency: string
   total_steps: number
   finished_at: number
+  triggered_from?: 'debugging' | 'app-run' | 'workflow' | 'schedule' | 'plugin'
 }
 export type AccountInfo = {
   id: string

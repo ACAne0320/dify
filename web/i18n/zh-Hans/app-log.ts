@@ -20,6 +20,7 @@ const translation = {
       tokens: 'TOKENS',
       user: '用户或账户',
       version: '版本',
+      triggeredFrom: '触发方式',
     },
     pagination: {
       previous: '上一页',

@@ -20,6 +20,7 @@ const translation = {
       tokens: 'TOKENS',
       user: 'End User or Account',
       version: 'VERSION',
+      triggeredFrom: 'TRIGGER BY',
     },
     pagination: {
       previous: 'Prev',
